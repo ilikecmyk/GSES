@@ -1,0 +1,61 @@
+<style>
+.swapMe img {
+	-webkit-transition: all 1s ease-in-out;
+	-moz-transition: all 1s ease-in-out;
+	-ms-transition: all 1s ease-in-out;
+	-o-transition: all 1s ease-in-out;
+	transition: all 1s ease-in-out;
+}
+.swap1, .swapMe:hover .swap2 {
+	-webkit-opacity: 1;
+	-moz-opacity: 1;
+	opacity: 1;
+}
+.swapMe:hover .swap1, .swap2 {
+	-webkit-opacity: 0;
+	-moz-opacity: 0;
+	opacity: 0;
+}
+.giftText{text-decoration: none;}
+.giftDiv{border-top:2px solid #004990;text-align: center;font-size: 2em;border-bottom: 2px solid #004990;padding: 5px;font-weight: bold;}
+</style>
+<!-- Gift Certificates Now Available -->
+<!--<section class="home-page-banner home-page-banner-top container-fluid">
+  <div class="inner"> 
+<a href="/All-Shop-Equipment/Gift-Certificates" class="giftText">
+<img class="desktop-only" src="http://www.gregsmithequipment.com/images/Promos/GiftCertificatesNowAvailable.png">
+<div class="mobile-only giftDiv">
+  GIFT CERTIFICATES NOW AVAILABLE
+</div>
+</a>
+</div>
+</section>-->
+<!-- Gift Certificates Now Available -->
+
+<section class="home-page-banner home-page-banner-top container-fluid">
+  <div class="inner"> <a href="/4-Post-Lift/Commercial-Grade" class="col-md-6 wrap">
+    <div class="swapMe"> <img src="/site/images/homepage/homepage_commercial_grade_4Post_1.jpg" class="swap1" style="position: absolute;" alt="Commercial Grade 4 Post Lifts 1"> <img src="/site/images/homepage/homepage_commercial_grade_4Post_2.jpg" class="swap2" alt="Commercial Grade 4 Post Lifts 2"> </div>
+    <div class="overlay">
+      <p>Atlas Commercial Grade 4-Post Lifts<i class="fa fa-angle-double-right"></i></p>
+    </div>
+    </a> <a href="/4-Post-Lift/Hobbyist" class="col-md-6 wrap">  <div class="swapMe"> <img src="/site/images/homepage/homepage_4_post_hobbyist_1.jpg" alt="4 Post Hobbyist 1" class="swap1" style="position: absolute;"> <img src="/site/images/homepage/homepage_4_post_hobbyist_2.jpg" class="swap2" alt="4 Post Hobbyist 2"> </div>
+    <div class="overlay">
+      <p style="text-align:left;">Atlas 4-Post Hobbyist Lifts<i class="fa fa-angle-double-right"></i></p>
+    </div>
+    </a> </div>
+</section>
+<section class="home-page-banner home-page-banner-bottom container-fluid">
+  <div class="inner"> <a href="/2-Post-Lift/Overhead-2-Post-Lifts" class="col-md-4 wrap"> <div class="swapMe"><img src="/site/images/homepage/homepage_PV_series_2_post_lifts_1.jpg" alt="PV Series 2-Post Lifts 1" class="swap1" style="position: absolute;"><img src="/site/images/homepage/homepage_PV_series_2_post_lifts_2.jpg" alt="PV Series 2-Post Lifts 1" class="swap2"> </div>
+    <div class="overlay">
+      <p>Atlas PV Series 2-Post Lifts<i class="fa fa-angle-double-right"></i></p>
+    </div>
+    </a> <a href="/Car-Scissor-Lift/Mid-Rise-Scissor-Lift" class="col-md-4 wrap"><div class="swapMe"><img src="/site/images/homepage/homepage_mid_rise_lifts_1.jpg" alt="Mid Rise Lifts 1" class="swap1" style="position: absolute;"><img src="/site/images/homepage/homepage_mid_rise_lifts_2.jpg" alt="Mid Rise Lifts 1" class="swap2"> </div>
+    <div class="overlay">
+      <p>Atlas Mid Rise Scissor Lifts<i class="fa fa-angle-double-right"></i></p>
+    </div>
+    </a> <a href="/Car-Scissor-Lift/Full-Rise-Scissor-Lift" class="col-md-4 wrap"> <div class="swapMe"><img src="/site/images/homepage/homepage_full_rise_lifts_1.jpg" alt="Full Rise Lifts 1" class="swap1" style="position: absolute;"><img src="/site/images/homepage/homepage_full_rise_lifts_2.jpg" alt="Full Rise Lifts 2" class="swap2"> </div>
+    <div class="overlay">
+      <p>Atlas Full Rise Scissor Lifts<i class="fa fa-angle-double-right"></i></p>
+    </div>
+    </a> </div>
+</section>
